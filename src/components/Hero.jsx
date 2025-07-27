@@ -25,7 +25,7 @@ export const Hero = () => {
         </p>
       </div>
 
-      <div>
+      {/* <div>
         <h1>Essential Tools I Use</h1>
         <p>Discover the powerful tools and technologies I use to create exceptional,
            high-performing websites & applications</p>
@@ -39,7 +39,7 @@ export const Hero = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
